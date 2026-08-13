@@ -14,7 +14,7 @@ int main(int argc, char *argv[]) {
 	raio *= raio;
 	areaC = pi * raio;
 	
-	printf("A área do círculo é %f", areaC);
+	printf("A Ã¡rea do cÃ­rculo Ã© %f", areaC);
 	
 	float bM, bm, h, areaT;
 	
@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
 	
 	areaT = ((bM + bm) * h) / 2;
 	
-	printf("A área do trapézio é %f", areaT);
+	printf("A Ã¡rea do trapÃ©zio Ã© %f", areaT);
 	
 	return 0;
 }
